@@ -193,6 +193,7 @@ section.hero {
 /* footer */
 .footer {
     font-family: 'Roboto';
+    background-color: #fff;
 }
 
 .footer a {

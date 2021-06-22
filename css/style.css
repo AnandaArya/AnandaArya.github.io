@@ -91,6 +91,22 @@ section.hero {
 .java-color {
     color: #5382a1;
 }
+
+.fb-color {
+    color: #4267B2;
+}
+
+.insta-color {
+    color: #fd1d1d;
+}
+
+.wa-color {
+    color: #25D366;
+}
+
+.line-color {
+    color: #00B900;
+}
 /* ============= Skills ================ */
 
 
@@ -177,13 +193,13 @@ section.hero {
 /* footer */
 .footer {
     font-family: 'Roboto';
-    background-color: #16143D;
+    /* background-color: #F8F9FA; */
     /* height: 350px; */
 }
 
 .footer a {
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 14px;
 }
 

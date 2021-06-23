@@ -91,6 +91,12 @@ section.hero {
 
 /* ============ Skills ============== */
 
+@media (max-width: 575.98px) {
+    .col-skill {
+        min-width: 125px;
+    }
+}
+
 .ig-color {
     color: white;
 }

@@ -92,8 +92,8 @@ section.hero {
 /* ============ Skills ============== */
 
 @media (max-width: 575.98px) {
-    .col-skill {
-        min-width: 125px;
+    .card {
+        min-height: 165px;
     }
 }
 
@@ -162,10 +162,6 @@ section.hero {
 /* ============= Skills ================ */
 
 
-.img-portfolio {
-    width: 700px;
-    max-height: 350px;
-}
 
 @media (max-width: 991.98px) { 
     .navbar-utama a{
@@ -212,56 +208,6 @@ section.hero {
         margin-top: 100px;
     }
 }
-
-/* .akhir .bg-akhir {
-    background-image: url('../img/gambar-akhir.png');
-    background-color: rgb(107, 97, 97);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 387px;
-    border-radius: 15px;
-}
-
-.akhir {
-    font-family: 'Roboto';
-    color: white;
-}
-
-.akhir .bg-akhir h3 {
-    font-size: 40px;
-    margin-top: 102px;
-}
-
-.akhir .bg-akhir p {
-    font-size: 18px;
-}
-
-.akhir .bg-akhir a {
-    font-size: 14px;
-} */
-
-
-/* footer */
-/* .footer {
-    font-family: 'Roboto';
-    background-color: #fff;
-}
-
-.footer a {
-    text-decoration: none;
-    color: rgb(0, 0, 0);
-    font-size: 14px;
-}
-
-.footer-copyright a {
-    color: blue;
-}
-
-.footer p {
-    font-size: 14px;
-} */
-
 
 
 

@@ -91,9 +91,11 @@ section.hero {
 
 /* ============ Skills ============== */
 
+
+/* Tablet Screen < */
 @media (max-width: 575.98px) {
-    .card {
-        min-height: 165px;
+    .card-title {
+        font-size: 10px;
     }
 }
 

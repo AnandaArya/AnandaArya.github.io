@@ -99,7 +99,7 @@ section.hero {
 /* Tablet Screen < */
 @media (max-width: 575.98px) {
     .card-title {
-        font-size: 10px;
+        font-size: 9px;
     }
 }
 
